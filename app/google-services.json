@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "700602415350",
+    "firebase_url": "https://masturischool-a9989.firebaseio.com",
+    "project_id": "masturischool-a9989",
+    "storage_bucket": "masturischool-a9989.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700602415350:android:2c9b86f00ed72907",
+        "android_client_info": {
+          "package_name": "com.ikspl.masturischool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700602415350-4p3egojrqfreerplk7v4hu3sncos3j3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ikspl.masturischool",
+            "certificate_hash": "17b3341b349ddddbe423a97ad20d0ab4cffc17ea"
+          }
+        },
+        {
+          "client_id": "700602415350-okmumho9ous98140q88lgctnushgmfne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_5J28rkrdsyIctVlJpgzPtyCbhbRem00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700602415350-okmumho9ous98140q88lgctnushgmfne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

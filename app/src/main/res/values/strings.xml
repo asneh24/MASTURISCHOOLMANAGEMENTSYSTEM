@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PUBLIC HIGHER SECONDAY SCHOOL MASTURI</string>
+    <string name="gmailid">masturischool@gmail.com</string>
+    <string name="dmailpassword">masturi@2019</string>
+    <string name="data_source">103.48.51.214:1232</string>
+    <string name="db">admin_EDU_PSM</string>
+    <string name="username">EDU_PSM</string>
+    <string name="password">EduPSM@2016</string>
+    <string name="SiteName">http://psm.edusofterp.com/</string>
+    <string name="title_activity_dashboard">PUBLIC HIGHER SECONDAY SCHOOL MASTURI</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Logout</string>
+</resources>
